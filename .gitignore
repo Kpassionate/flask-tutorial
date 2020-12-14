@@ -1,0 +1,15 @@
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+/logs
+/media
+/static
+wsgi.ini
+/push_certs/*prod*
+build/
+dist/
+*.egg-info/
+.venv/
+.env
+a.txt
